@@ -36,9 +36,7 @@
 
 // This determines the communication speed of the printer
 #ifndef BAUDRATE
-//#define BAUDRATE 250000
-// joris -z-unlimited 2014-07-22
-#define BAUDRATE 115200
+#define BAUDRATE 250000
 #endif
 
 // This enables the serial port associated to the Bluetooth interface
